@@ -12,8 +12,8 @@
 
 ## 👨‍💻 About Me
 
-I’m an **IT Engineer with over six years of professional experience** in **software development, system administration, and application support**, primarily in **Singapore**.  
-Throughout my career, I’ve held multiple roles that have helped me build a solid foundation in backend development, systems analysis, and IT infrastructure:
+I’m an **IT & Software Specialist with over six years of experience** in **software development, system administration, and application support**, primarily in **Singapore**.  
+Throughout my career, I’ve worked across diverse roles that strengthened my technical versatility, problem-solving skills, and understanding of full-stack development and enterprise systems.
 
 - 💼 **Application Engineer** — *Vtechnologist Pte. Ltd., Singapore* (May 2021 – Sep 2024)  
 - 💼 **System Engineer** — *Globotron Pte. Ltd., Singapore* (Apr 2020 – May 2021)  
@@ -23,7 +23,7 @@ Throughout my career, I’ve held multiple roles that have helped me build a sol
 
 I hold a **Bachelor’s degree in Computer Science** from the **University of Computer Studies, Yangon (UCSY)** and a **Postgraduate Diploma in System Analysis** from the **National University of Singapore (NUS)**.  
 
-Currently, I’m pursuing a **Master of Engineering in Computer Science** at **GISMA University of Applied Sciences** in **Berlin, Germany**, while actively seeking **part-time or internship opportunities** to further expand my technical expertise and contribute to real-world projects.  
+Currently, I’m pursuing a **Master of Engineering in Computer Science** at **GISMA University of Applied Sciences** in **Berlin, Germany**, while actively seeking **part-time or internship opportunities** to further expand my technical expertise and contribute to impactful projects.
 
 ---
 
@@ -41,13 +41,13 @@ Currently, I’m pursuing a **Master of Engineering in Computer Science** at **G
 ## 🎓 Education
 
 🎓 **Master of Engineering in Computer Science**  
-*GISMA University of Applied Sciences, Germany* (Ongoing)  
+*GISMA University of Applied Sciences, Germany* — *Ongoing*  
 
 🎓 **Postgraduate Diploma in System Analysis**  
-*National University of Singapore (NUS)* — Completed in 2017  
+*National University of Singapore (NUS)* — *Completed in 2017*  
 
 🎓 **Bachelor of Computer Science**  
-*University of Computer Studies, Yangon (UCSY)* — Completed in 2011  
+*University of Computer Studies, Yangon (UCSY)* — *Completed in 2011*  
 
 ---
 
